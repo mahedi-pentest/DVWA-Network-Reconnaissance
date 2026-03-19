@@ -1,4 +1,4 @@
-# DVWA-Network-Reconnaissance
+
 # DVWA Network Reconnaissance & Port Scanning
 
 ## 📌 Project Overview
@@ -53,7 +53,7 @@ Open ports identified:
 - Implement firewall rules
 
 ## 📷 Screenshot
-See `/screenshots/nmap-scan.png`
+See `<img width="958" height="445" alt="nmap-scan png" src="https://github.com/user-attachments/assets/5fc6ed23-1315-4beb-b2ae-1c7efb5b1c79" />
 
 ## 📚 Learning Outcome
 - Hands-on experience with Nmap
