@@ -52,7 +52,9 @@ Open ports identified:
 - Implement firewall rules
 
 ## 📷 Screenshot
-See ``
+Nmap Scaning
+<img width="958" height="445" alt="nmap-scan png" src="https://github.com/user-attachments/assets/1154feac-ce68-465a-9784-043307c3fa29" />
+`
 
 ## 📚 Learning Outcome
 - Hands-on experience with Nmap
